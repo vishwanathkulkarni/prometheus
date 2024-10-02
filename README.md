@@ -18,7 +18,7 @@
   	- [Mac Users](#mac-users)
   - [Interesting Projects that use this Repo](#interesting-projects-that-use-this-repo)
 
-# A Prometheus & Grafana docker-compose stack
+# A Prometheus & Grafana docker-compose stack only for nutanix
 
 Here's a quick start using Play-With-Docker (PWD) to start-up a [Prometheus](http://prometheus.io/) stack containing Prometheus, Grafana and Node scraper to monitor your Docker infrastructure. The Try in PWD below allows you to quickly deploy the entire Prometheus stack with a click of the button. This will allow you to quickly test the stack to see if it meets your needs.
 
